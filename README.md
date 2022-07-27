@@ -1,1 +1,1 @@
-# liminalchess.github.io
+# liminalchess
