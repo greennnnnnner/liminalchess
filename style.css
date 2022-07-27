@@ -2,9 +2,14 @@
   overflow: hidden;
   margin: 0;
   padding: 0;
+  position: fixed;
 }
 
 #canvas{
   background-color: white;
 
+}
+@font-face {
+  font-family: pixel;
+  src: url("fonts/pixelmix.ttf")format("truetype");
 }
